@@ -3,7 +3,7 @@
 Streamline due diligence with an AI-powered analyzer that reads, interprets, and scores investment memos, pitch decks, and long-form documents using state-of-the-art Large Language Models (LLMs).  
 This full-stack platform delivers structured insights, consistent scoring, and enterprise-grade security for handling sensitive financial documents.
 
-![Project Preview][https://github.com/abhi5hek001/AI-Memo-Analyser/blob/main/ai-memo-analyser.png)
+![Project Preview](https://raw.githubusercontent.com/abhi5hek001/AI-Memo-Analyser/main/ai-memo-analyser.png)
 
 ---
 
